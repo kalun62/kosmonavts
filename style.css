@@ -1,0 +1,34 @@
+h1{
+	text-align: center;
+	margin-bottom: 100px;
+}
+
+.hjgfkfjhhjdfjgdhg{
+	color: aqua;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+	font-size: 18px;
+	border: 1px solid black;
+	background-color: black;
+	padding: 10px 30px;
+	border-radius: 8px;
+	transition: .8s;
+}
+
+a:hover{
+	background-color: white;
+	color: black;
+}
+
+img{
+	position: absolute;
+	top: 0;
+	left: 100px;
+	width: 300px;
+	height: 300px;
+	margin: 0 auto;
+	display: block;
+}
